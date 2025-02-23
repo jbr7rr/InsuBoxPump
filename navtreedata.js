@@ -24,7 +24,10 @@
 */
 var NAVTREE =
 [
-  [ "InsiBox", "index.html", [
+  [ "InsuBoxPump", "index.html", [
+    [ "Disclaimer", "index.html#autotoc_md3", null ],
+    [ "Introduction", "index.html#autotoc_md4", null ],
+    [ "Project description", "index.html#autotoc_md5", null ],
     [ "Build", "Build.html", [
       [ "Introduction", "Build.html#autotoc_md0", [
         [ "Parts list", "Build.html#autotoc_md1", null ],
