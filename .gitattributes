@@ -1,0 +1,7 @@
+# FreeCAD
+*.FCStd filter=rezip
+# Misc
+*.mcdx  filter=rezip
+*.slx   filter=rezip
+# Zip
+*.zip   filter=rezip
