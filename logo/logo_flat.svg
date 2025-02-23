@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="logo_flat_cut.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="32"
+     inkscape:cy="322.5"
+     inkscape:window-width="3440"
+     inkscape:window-height="1403"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="-64.414632"
+       y="101.35832"
+       width="1418.0692"
+       height="558.89166"
+       id="rect6" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="174.31773"
+       y1="221.03163"
+       x2="16.867147"
+       y2="-37.872135"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.60000004,0,0,0.5999967,-14.000002,63.841193)" />
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#4e4e56;stop-opacity:1;"
+         offset="0.65293944"
+         id="stop2" />
+      <stop
+         style="stop-color:#4e4e56;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:0;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:start;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:#361d6e;fill-opacity:1;stroke:#4a2991;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="rect1"
+       style="fill:none;fill-opacity:0;stroke:url(#linearGradient3);stroke-width:7.79999"
+       d="m 52.9,73.900138 28.341185,-1.43e-4 c 0.9972,-5e-6 1.8,0.802796 1.8,1.79999 v 19.641036 m 0,8.999939 v 19.64105 c 0,0.99719 -0.8028,1.79999 -1.8,1.79999 H 52.9 m -3.600001,0 H 20.958857 c -0.9972,0 -1.8,-0.8028 -1.8,-1.79999 v -19.64105 m 0,-8.999939 V 75.699985 c 0,-0.997194 0.8028,-1.79999 1.8,-1.79999 h 28.341142"
+       sodipodi:nodetypes="cssccssccssccssc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#4a2991;stroke-width:5.541;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 10,99.840996 H 32.499998 L 41.499999,114.84091 61,84.841079 69.999998,99.840996 H 92.5"
+       id="path4"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:50.8px;font-family:'Terminess Nerd Font';-inkscape-font-specification:'Terminess Nerd Font Medium';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#4a2991;fill-opacity:1;stroke:#4a2991;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="95.309692"
+       y="115.43945"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#4a2991;fill-opacity:1;stroke-width:0;stroke-dasharray:none"
+         x="95.309692"
+         y="115.43945">InsuBox</tspan></text>
+  </g>
+</svg>
