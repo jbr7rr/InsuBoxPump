@@ -1,0 +1,17 @@
+# Editors
+.vscode
+*.swp
+*~
+
+# Python
+.venv
+
+# Doxygen
+doc/html
+doc/latex
+
+# Export and print files
+*.3mf
+
+# FCBackup files
+*.FCBak

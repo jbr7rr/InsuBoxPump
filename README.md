@@ -1,7 +1,9 @@
 # InsuBoxPump
 **Under development, it's not ready for release**
 
-Check dev branch for current state of development
+**DEVELOPMENT VERSION**
+
+Documentation can be found [here](https://jbr7rr.github.io/InsuBoxPump/).
 
 ## Support the Project
 
