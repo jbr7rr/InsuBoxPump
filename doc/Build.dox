@@ -11,7 +11,7 @@ This page details the steps needed to build a prototype insubox pump
 | Amount | Description | Part nr           | Comments                          | Link                                                                 |
 |--------|-------------|-------------------|-----------------------------------|---------------------------------------------------------------------|
 | 1      | Display     | RT023LQM-600-8    | Ensure you get with 8pin connector| [Link](https://nl.aliexpress.com/item/1005008197652274.html)        |
-| 1      | Motor       | CHS-GM12-15BY     | Ensure m3 * 33.6 and 1:50 ratio   | [Link](https://nl.aliexpress.com/item/1005007705358777.html)        |
+| 1      | Motor       | CHS-GM12-15BY     | Ensure m3 * 33.6 and 1:50 ratio   | [Link](https://nl.aliexpress.com/item/1005008070666441.html)        |
 | 1      | Magnet      | N48 2x4           | TODO: Needs testing               | TODO                                                                |
 | 1      | Power PCB   | Custom            | TODO: Needs testing               | TODO                                                                |
 | 1      | Control PCB | Custom            | TODO: Needs testing               | TODO                                                                |
